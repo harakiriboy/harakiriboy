@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Daulet - aka [harakiriboy][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -58,53 +58,7 @@
 <br />
 
 ---
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [The Edge is the Future! What are Edge Functions? Exploring Netlify Edge Functions](https://www.youtube.com/watch?v=mQwWWxYd-SY)
-- [Fastest Upgrade to React 18!! Only 1 Second! 🤯](https://www.youtube.com/watch?v=JLyVyURIWG0)
-- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/watch?v=1ktrrwasouc)
-- [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/watch?v=oQBRZMo0e34)
-- [BEST Mint From Site &lpar;dapp&rpar; - Entire Process! Whitelist &amp; Launch an NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
 ---
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/codeSTACKr/create-10k-nft-collection/issues/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🎉 Merged PR [#156](https://github.com/codeSTACKr/create-10k-nft-collection/pull/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. ❌ Closed PR [#44](https://github.com/codeSTACKr/minter-dapp/pull/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-4. 🗣 Commented on [#44](https://github.com/codeSTACKr/minter-dapp/issues/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-5. ❌ Closed PR [#45](https://github.com/codeSTACKr/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 </details>
 
 [website]: https://codeSTACKr.com
@@ -117,3 +71,125 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+
+
+## Hi there 👋
+
+I'm [Moepoi](https://moepoi.dev) (19 y.o) ! :sunglasses:
+
+I'd like to do project that has relation to anime. :ghost:
+
+:page_with_curl: I'm currently learning:
+<br><br>
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+:star: Here are some projects that I'm working on:
+- [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
+- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
+- [Nepgear](https://t.me/NepgearBot)
+- [WhoisBot](https://t.me/WhoisBot)
+- [Moe API](https://beta.moe.team)
+
+![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
+
+<details>
+<summary>:bar_chart: Recent Anilist Activity</summary>
+  
+<!-- anilist_activity starts -->
+* [watched episode 57](https://anilist.co/activity/389102545) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
+* [watched episode 12](https://anilist.co/activity/389100699) of [Douluo Dalu: Feng Qi Tang Men](https://anilist.co/anime/145210)
+* [watched episode 90](https://anilist.co/activity/389037254) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [watched episode 16](https://anilist.co/activity/389033995) of [Zhu Tian Ji](https://anilist.co/anime/129243)
+* [watched episode 103](https://anilist.co/activity/388727879) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 177](https://anilist.co/activity/388726602) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 31](https://anilist.co/activity/388723891) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
+* [watched episode 1 - 4](https://anilist.co/activity/388504103) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
+<!-- anilist_activity ends -->
+
+</details>
+
+<details>
+<summary>:tv: List Favorites Anime</summary>
+  
+<!-- favorites_anime starts -->
+* [Ze Tian Ji](https://anilist.co/anime/101409)
+* [Ze Tian Ji 2](https://anilist.co/anime/102165)
+* [Ze Tian Ji 3](https://anilist.co/anime/102166)
+* [Ze Tian Ji 4](https://anilist.co/anime/108986)
+* [Ze Tian Ji 5](https://anilist.co/anime/115839)
+* [Toaru Majutsu no Index](https://anilist.co/anime/4654)
+* [Toaru Majutsu no Index II](https://anilist.co/anime/8937)
+* [Toaru Majutsu no Index III](https://anilist.co/anime/100185)
+* [Toaru Kagaku no Railgun](https://anilist.co/anime/6213)
+* [Toaru Kagaku no Railgun S](https://anilist.co/anime/16049)
+* [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
+* [Ling Jian Zun](https://anilist.co/anime/107882)
+* [Ling Jian Zun 2](https://anilist.co/anime/116137)
+* [Ling Jian Zun 3](https://anilist.co/anime/116138)
+* [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Doupo Cangqiong](https://anilist.co/anime/102464)
+* [Doupo Cangqiong 2](https://anilist.co/anime/102463)
+* [Doupo Cangqiong 3](https://anilist.co/anime/104922)
+* [World Trigger](https://anilist.co/anime/20729)
+* [World Trigger 2](https://anilist.co/anime/114087)
+* [Mahouka Koukou no Rettousei](https://anilist.co/anime/20458)
+* [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
+* [Tong Ling Fei](https://anilist.co/anime/99935)
+* [Shu Ling Ji](https://anilist.co/anime/119945)
+* [Quanzhi Fashi](https://anilist.co/anime/99200)
+<!-- favorites_anime ends -->
+
+</details>
+
+<details>
+<summary>:book: List Favorites Manga</summary>
+  
+<!-- favorites_manga starts -->
+<!-- favorites_manga ends -->
+
+</details>
+
+<details>
+<summary>:girl: List Favorites Characters</summary>
+  
+<!-- favorites_characters starts -->
+* [Mukuro Hoshimiya](https://anilist.co/character/157109)
+* [Yor Forger](https://anilist.co/character/138102)
+* [Celia Claire](https://anilist.co/character/161678)
+* [Sayu Ogiwara](https://anilist.co/character/127925)
+* [Chizuru Ichinose](https://anilist.co/character/128106)
+* [Misaki Shokuhou](https://anilist.co/character/40136)
+* [Kyouko Hori](https://anilist.co/character/66171)
+* [Nagisa Minase](https://anilist.co/character/162885)
+* [Ruka Sarashina](https://anilist.co/character/147005)
+* [Ravel Phenex](https://anilist.co/character/58341)
+* [Ziyu Zhou](https://anilist.co/character/234726)
+* [Yuuko Yoshida](https://anilist.co/character/141461)
+* [Angelina Kudou Shields](https://anilist.co/character/128377)
+* [Amalie](https://anilist.co/character/175297)
+* [Haruno Yukinoshita](https://anilist.co/character/79589)
+* [Jibril](https://anilist.co/character/87887)
+* [Holo](https://anilist.co/character/7373)
+* [Miyuki Shiba](https://anilist.co/character/55741)
+* [Ayako Kuroba](https://anilist.co/character/200612)
+* [Nepgear](https://anilist.co/character/49927)
+* [Roxy Migurdia](https://anilist.co/character/88350)
+* [Roroa Amidonia](https://anilist.co/character/133342)
+* [Ninym Ralei](https://anilist.co/character/206374)
+* [Marin Kitagawa](https://anilist.co/character/133676)
+<!-- favorites_characters ends -->
+
+</details>
+
+Feel free to contact me :yum:
+<br><br>
+[<img src="https://img.shields.io/badge/Telegram-%40moepoi-blue">](https://t.me/moepoi)
+[<img src="https://img.shields.io/badge/LINE-moepoi-brightgreen">](https://line.me/ti/p/~moepoi)
+[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:moe@chocola.dev)
+[<img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red">](https://moepoi.dev)
