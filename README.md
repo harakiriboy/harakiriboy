@@ -1,18 +1,17 @@
 <h2 align="left">Hi there👋</h2> 
 <h3 align="left">I'm Daulet(18 y.o.), aka harakiriboy</h3>
-<h3 align="left">A passionate frontend developer from Kazakhstan</h3>
 
 - 🌱 I’m currently learning **JS React Framework, GraphQL**
 
-- 👨‍💻 All of my projects are available at [harakiriboy.com](harakiriboy.com)
+<!--- 👨‍💻 All of my projects are available at [harakiriboy.com](harakiriboy.com)
 
-- 📝 I regularly write articles on [harakiriboyblogs.com](harakiriboyblogs.com)
+- 📝 I regularly write articles on [harakiriboyblogs.com](harakiriboyblogs.com)-->
 
 - 📫 How to reach me **yesirkepov03@gmail.com**
 
-- 📄 Know about my experiences [i should create a resume](i should create a resume)
+<!--- 📄 Know about my experiences [i should create a resume](i should create a resume)
 
-/*- ⚡ Fun fact **i will write it later***/
+- ⚡ Fun fact **i will write it later**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
