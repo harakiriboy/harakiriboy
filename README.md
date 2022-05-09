@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [i should create a resume](i should create a resume)
 
-- ⚡ Fun fact **i will write it later**
+/*- ⚡ Fun fact **i will write it later***/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
