@@ -1,5 +1,5 @@
 <h2 align="left">Hi there👋</h2> 
-<h3 align="left">I'm Daulet(18 y.o.), aka harakiriboy</h3>
+<h3 align="left">I'm Daulet(19 y.o.), aka harakiriboy</h3>
 
 - 🌱 I’m currently learning **JS React Framework, GraphQL**
 
