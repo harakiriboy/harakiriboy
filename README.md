@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JS React Framework**
 
-<!--- 👨‍💻 All of my projects are available at [harakiriboy.com](harakiriboy.com)
+- 👨‍💻 All of my projects are available at [harakiriboy.com](https://harakiriboy-site.netlify.app/)
 
 - 📝 I regularly write articles on [harakiriboyblogs.com](harakiriboyblogs.com)-->
 
