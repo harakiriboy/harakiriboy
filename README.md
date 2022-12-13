@@ -1,7 +1,7 @@
 <h2 align="left">Hi there👋</h2> 
 <h3 align="left">I'm Daulet(19 y.o.), aka harakiriboy</h3>
 
-- 🌱 I’m currently learning **JS React Framework, GraphQL**
+- 🌱 I’m currently learning **JS React Framework**
 
 <!--- 👨‍💻 All of my projects are available at [harakiriboy.com](harakiriboy.com)
 
@@ -26,9 +26,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>   
